@@ -1,8 +1,6 @@
-#Repositorio criado para arquivos de PHP Orientados a Objetos.
-O objetivo desde repositorio é concentrar arquivos de aprendizado 
-faciliandando meu aprendizado com a linguagem 
-e ao mesmo tempo poder contrubuir com outros que estão aprendendo e
-também abrir espaço para quem quiser contribuir nos arquivos.
-#---------------------------------------------------------------
+#Arquivo criado baseado nas aulas do curso em video aulas 7 e 8 
+Os aquivos do UltimateEmojiCombat foram criados seguindo as aulas de POO do professor Gustavo Guanabara do curso em video e podem ser acessadas em https://www.youtube.com/user/cursosemvideo
+Os aquivos deste source mostram conceitos simples de POO com java e agregação de classes.
+#--------------------------------------------------------------
 Autor: Maycon de Moraes
 Data: 26/02/2017
