@@ -1,4 +1,4 @@
-#Repositorio criado para arquivos de PHP Orientados a Objetos.
+#Repositorio criado para arquivos de JAVA Orientados a Objetos.
 O objetivo desde repositorio é concentrar arquivos de aprendizado 
 faciliandando meu aprendizado com a linguagem 
 e ao mesmo tempo poder contrubuir com outros que estão aprendendo e
