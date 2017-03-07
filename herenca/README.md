@@ -1,5 +1,5 @@
-# Aula de programação 01 - Herença em JAVA
-	Conceitos de herança em java, classe
+# Aula de programaÃ§Ã£o 01 - HeranÃ§a em JAVA
+	Conceitos de heranÃ§a em java, classe
 	baseadas no livro 21 dias programando 
 	orientado a objetos.
 
