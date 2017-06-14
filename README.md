@@ -1,8 +1,12 @@
-#Repositorio criado para arquivos de JAVA Orientados a Objetos.
-O objetivo desde repositorio é concentrar arquivos de aprendizado 
-faciliandando meu aprendizado com a linguagem 
-e ao mesmo tempo poder contrubuir com outros que estão aprendendo e
-também abrir espaço para quem quiser contribuir nos arquivos.
-#---------------------------------------------------------------
-Autor: Maycon de Moraes
-Data: 26/02/2017
+# Leitor de CSV generico
+
+
+# -----------------------
+
+   Informar o número do colunas do CSV, informar o caminho ou selecionar o local do arquivo, e informar o separador.
+
+
+# -----------------------
+
+Autor: Maycon de Mores
+Data: 13/06/2017
