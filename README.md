@@ -1,12 +1,8 @@
-# Leitor de CSV generico
+# Repositorio para simples programas e exemplos com java orientado a objetos
 
 
-# -----------------------
+## Os fontes desenvolvidos neste repositorio são criados com inteção de ajudar colegas e trocar conhecimentos com companheiros desenvolvedores. Sintam-se todos a vontadade para contribuir.
+  
 
-   Informar o número do colunas do CSV, informar o caminho ou selecionar o local do arquivo, e informar o separador.
-
-
-# -----------------------
-
-Autor: Maycon de Mores
-Data: 13/06/2017
+### Autor: Maycon de Mores
+### Academico de analise e desenvolvimento de sistemas.
